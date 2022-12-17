@@ -9,4 +9,3 @@ Instucciones de uso:
 
 2) El programa funciona para casi todos los casos señalados en el pdf
 
-Nota Final: 100/100
