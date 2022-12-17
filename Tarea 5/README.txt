@@ -1,6 +1,9 @@
 Nombre: Benjamin Alenjandro Pavez Ortiz
-Rol: 202173628-k
+
+Rol: 202173628-K
+
 S.O: Windows 11
+
 Version SWI-Prolog: 8.4.3
 
 Instucciones de uso:
