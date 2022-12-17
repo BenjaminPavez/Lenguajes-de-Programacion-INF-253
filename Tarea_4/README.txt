@@ -1,7 +1,9 @@
 Nombre: Benjamin Alejandro Pavez Ortiz
+
 Rol USM: 202173628-K
 
 Entorno de trabajo: DrRacket version 8.6[cs]
+
 SO: Windows 11
 
 Instrucciones de Uso
