@@ -6,3 +6,5 @@ Tarea 2: C
 Tarea 3: Java
 Tarea 4: Scheme
 Tarea 5: Prolog
+
+2022-2
