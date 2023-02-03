@@ -1,8 +1,10 @@
 Nombre: Benjamin Alejandro Pavez Ortiz
 
-Rol: 202173628-K
+Rol USM: 202173628-K
 
 SO: Windows 11
+
+IDE: Visual Studio Code
 
 Version interprete de Python: 3.10.5 64-bit
 
