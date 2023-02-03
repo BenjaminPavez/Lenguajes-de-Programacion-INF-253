@@ -4,8 +4,6 @@ Rol  USM: 202173628-K
 
 IDE: Visual Studio Code
 
-SO: Windows 11
-
 SO: Ubuntu 22.04.1 LTS
 
 Compilador: gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0 (WSL)
