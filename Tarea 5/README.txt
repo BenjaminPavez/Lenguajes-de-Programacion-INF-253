@@ -1,14 +1,13 @@
 Nombre: Benjamin Alenjandro Pavez Ortiz
 
-Rol: 202173628-K
+Rol USM: 202173628-K
 
-S.O: Windows 11
+IDE: SWI-Prolog: 8.4.3
 
-Version SWI-Prolog: 8.4.3
+SO: Windows 11
 
 Instucciones de uso:
 
 1) El programa funciona sin errores en las condiciones nombradas anteriormente
 
 2) El programa funciona para casi todos los casos señalados en el pdf
-
