@@ -23,3 +23,5 @@ Instrucciones de Uso:
 4) Luego tengra que escribir ./main para ejecutar el ejecutable
 
 5) Hay algunas funciones que estan definidas y funcionan pero no se utilizan
+
+6) El archivo principal es main.c
