@@ -37,7 +37,7 @@ void Estructura(tCertamen* Certamen, int npreguntas){
 
 
 /*
-La funcion muestra opciones descpues de responder el certamen
+La funcion muestra opciones despues de responder el certamen
 
 Parametros :
    tCertamen Certamen : struct tipo certamen
