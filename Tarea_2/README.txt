@@ -1,6 +1,8 @@
 Nombre: Benjamin Alejandro Pavez Ortiz
 
-Rol: 202173628-K
+Rol  USM: 202173628-K
+
+IDE: Visual Studio Code
 
 SO: Windows 11
 
