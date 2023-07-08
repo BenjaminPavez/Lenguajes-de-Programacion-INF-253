@@ -1,4 +1,4 @@
-# Lenguajes-de-Programacion-INF-253-
+# Lenguajes-de-Programacion-INF-253
 Tareas de Lenguajes de Programacion en varios lenguajes
 
 Tarea 1: Python
